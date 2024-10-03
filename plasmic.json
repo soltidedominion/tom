@@ -7,7 +7,7 @@
   },
   "style": {
     "scheme": "css-modules",
-    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.css"
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.module.css"
   },
   "images": {
     "scheme": "public-files",
@@ -77,7 +77,8 @@
           "componentImportPath": "@plasmicpkgs/plasmic-basic-components"
         }
       ],
-      "customFunctions": []
+      "customFunctions": [],
+      "jsBundleThemes": []
     },
     {
       "projectId": "eHpbU2NKNJKD7NPDAZmhpB",
@@ -143,6 +144,11 @@
           "id": "5LUbHkp7gSKA",
           "name": "pumpfunicon.jpeg",
           "filePath": "../public/plasmic/tombear/images/pumpfuniconJpeg.jpg"
+        },
+        {
+          "id": "PNnmvz3lbHxa",
+          "name": "tombear.jpg",
+          "filePath": "../public/plasmic/tombear/images/tombearJpg.jpg"
         }
       ],
       "indirect": false,

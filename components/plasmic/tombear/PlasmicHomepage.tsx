@@ -219,7 +219,7 @@ function PlasmicHomepage__RenderFunc(props: {
                     sty.h4__zbNla
                   )}
                 >
-                  {"The Viral Russian Grizzly Bear on Youtube and Instragram"}
+                  {"The Viral Russian Grizzly Bear on Youtube and Instagram"}
                 </h4>
                 <h4
                   className={classNames(
@@ -307,10 +307,10 @@ function PlasmicHomepage__RenderFunc(props: {
             data-plasmic-override={overrides.pageMetadataOverride}
             className={classNames("__wab_instance", sty.pageMetadataOverride)}
             description={
-              "Moodance is way more than just a meme token. It\u2019s your ticket to the coolest Dance Club around, where you can vibe, have a blast, and share all the viral fun while we aim for the top. Moo Dang\u2019s got the moves, and we\u2019ve got the community to back it up!"
+              "The Viral Russian Grizzly Bear on Youtube and Instagram"
             }
-            image={"/plasmic/tombear/images/photo20241002132245Jpg.jpg"}
-            title={"MooDance on SOL"}
+            image={"/plasmic/tombear/images/tombearJpg.jpg"}
+            title={"Tom Bear | Solana"}
           />
         </div>
       </div>
