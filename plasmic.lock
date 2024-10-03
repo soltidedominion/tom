@@ -1,0 +1,90 @@
+{
+  "projects": [
+    {
+      "projectId": "caTPwKxj5ZrD9LQ7DMdK4Z",
+      "version": "3.38.0",
+      "dependencies": {},
+      "lang": "ts",
+      "fileLocks": [
+        {
+          "assetId": "caTPwKxj5ZrD9LQ7DMdK4Z",
+          "type": "projectCss",
+          "checksum": "e1ec850476829c38b0f9b6d4f7ac446a"
+        }
+      ],
+      "codegenVersion": "0.0.1"
+    },
+    {
+      "projectId": "eHpbU2NKNJKD7NPDAZmhpB",
+      "version": "latest",
+      "dependencies": {
+        "caTPwKxj5ZrD9LQ7DMdK4Z": "3.38.0"
+      },
+      "lang": "ts",
+      "fileLocks": [
+        {
+          "type": "globalVariant",
+          "assetId": "1_h1HrHExinU",
+          "checksum": "dddd9341798ee82efc4439d20d60d662"
+        },
+        {
+          "assetId": "eHpbU2NKNJKD7NPDAZmhpB",
+          "type": "projectCss",
+          "checksum": "b6926a1e1f98428f1630d914bae0c99e"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "WxyZShd1cxwA",
+          "checksum": "69bc7431955377c087b7d1175ca3ab94"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "WxyZShd1cxwA",
+          "checksum": "69bc7431955377c087b7d1175ca3ab94"
+        },
+        {
+          "type": "icon",
+          "assetId": "tRY6kou_NdG2",
+          "checksum": "546ed942892f13313ae3e1ebea6bdeac"
+        },
+        {
+          "type": "icon",
+          "assetId": "odGFXMcf3OrA",
+          "checksum": "e44ace5236dd94c07b26928dd6f4f986"
+        },
+        {
+          "type": "image",
+          "assetId": "B5CHmP0boUBw",
+          "checksum": "9b275b6c9a22b984e4d07a0bda232fae"
+        },
+        {
+          "type": "image",
+          "assetId": "qykS3MuuUMpB",
+          "checksum": "b8694f14fca3c618555ab4023bc6146a"
+        },
+        {
+          "type": "image",
+          "assetId": "d6YFa8q6lyfj",
+          "checksum": "fb86681a9ee37284053c4d2614080d79"
+        },
+        {
+          "type": "image",
+          "assetId": "Arol_u59LQNQ",
+          "checksum": "5b17b872980c6b6282c0c9ddd10e3f13"
+        },
+        {
+          "type": "image",
+          "assetId": "RyfAXHY2Vpi0",
+          "checksum": "709f2447f3c76c90d4959f44f1f7824d"
+        },
+        {
+          "type": "image",
+          "assetId": "5LUbHkp7gSKA",
+          "checksum": "97ef58ddb3b40dc9df04e8e409d8c626"
+        }
+      ],
+      "codegenVersion": "0.0.1"
+    }
+  ],
+  "cliVersion": "0.1.331"
+}
