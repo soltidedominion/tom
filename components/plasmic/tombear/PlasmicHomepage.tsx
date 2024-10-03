@@ -245,7 +245,7 @@ function PlasmicHomepage__RenderFunc(props: {
                       sty.link__dkMZp
                     )}
                     component={Link}
-                    href={"https://Twitter.com/Moodancesol"}
+                    href={"https://x.com/TomBearSol"}
                     platform={"nextjs"}
                   >
                     <TwitterSvgrepoComSvgIcon
