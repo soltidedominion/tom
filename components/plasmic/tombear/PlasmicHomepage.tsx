@@ -209,7 +209,7 @@ function PlasmicHomepage__RenderFunc(props: {
                     sty.h1
                   )}
                 >
-                  {"Wellcom To \nTOM BEAR"}
+                  {"Wellcom To \nTOM BEAR CTO"}
                 </h1>
                 <h4
                   className={classNames(
