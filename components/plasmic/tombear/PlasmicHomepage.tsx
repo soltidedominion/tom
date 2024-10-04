@@ -260,7 +260,7 @@ function PlasmicHomepage__RenderFunc(props: {
                       sty.link__xZle
                     )}
                     component={Link}
-                    href={"https://t.me/+KtHO0PZdcEYyYTNl"}
+                    href={"https://t.me/TomBearSol"}
                     platform={"nextjs"}
                   >
                     <TelegramSvgrepoComSvgIcon
