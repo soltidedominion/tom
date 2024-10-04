@@ -245,7 +245,7 @@ function PlasmicHomepage__RenderFunc(props: {
                       sty.link__dkMZp
                     )}
                     component={Link}
-                    href={"https://x.com/TomBearSol"}
+                    href={"https://x.com/TomBearCTO"}
                     platform={"nextjs"}
                   >
                     <TwitterSvgrepoComSvgIcon
@@ -260,7 +260,7 @@ function PlasmicHomepage__RenderFunc(props: {
                       sty.link__xZle
                     )}
                     component={Link}
-                    href={"https://t.me/Moodancesol"}
+                    href={"https://t.me/+KtHO0PZdcEYyYTNl"}
                     platform={"nextjs"}
                   >
                     <TelegramSvgrepoComSvgIcon
@@ -276,7 +276,7 @@ function PlasmicHomepage__RenderFunc(props: {
                     )}
                     component={Link}
                     href={
-                      "https://dexscreener.com/solana/fiwkq3vqgdnokzjrrx69nbrmcd52tqeox54mjcm1g45t"
+                      "https://pump.fun/ADFq9RMBMqLYUPLB4hQDRGsgNBbKSe7EAGm86iJgpump"
                     }
                     platform={"nextjs"}
                   >
